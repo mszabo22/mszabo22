@@ -2,8 +2,6 @@
 
 ## Full-Stack Developer & Network Engineer from Hungary 🇭🇺
 
-I'm a web development and network engineer.
-
 ## 💻 Tech Stack
 
 ### Web Development
