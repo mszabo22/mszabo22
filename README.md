@@ -2,7 +2,7 @@
 
 ## Full-Stack Developer & Network Engineer from Hungary 🇭🇺
 
-I'm a passionate tech professional with dual expertise in web development and network engineering who based in Hungary.
+I'm a web development and network engineer.
 
 ## 💻 Tech Stack
 
@@ -32,4 +32,3 @@ I'm currently expanding my knowledge in:
 - DevOps practices and tools
 - Containerization and orchestration
 - Network automation
-
